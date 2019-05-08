@@ -10,6 +10,9 @@ body{
     padding: 5px;
     border-radius: 5px; 
 }
+.aniadirCarrito{
+    
+}
 .carrito:hover{
     background-color: white;
     color: black;
@@ -25,8 +28,6 @@ body{
 .container{
     margin-top: 8px;
     background-color: red;
-    
-    
 }
 .main{
     display:flex;
